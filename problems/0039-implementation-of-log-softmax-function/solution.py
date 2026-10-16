@@ -7,3 +7,4 @@ def log_softmax(scores: list) -> np.ndarray:
 	return np.round((x - c) - (np.log(np.sum(np.exp(x - c)))), 4)
 
 
+ #log_softmax(xi) = (xi - c) - ln(sum((e ** (xi - c))))
