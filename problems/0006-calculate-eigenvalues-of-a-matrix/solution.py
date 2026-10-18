@@ -5,13 +5,13 @@ def calculate_eigenvalues(matrix: list[list[float|int]]) -> list[float]:
     trace = a + d
     det = (a * d) - (b * c)
     
-    # Diskriminant hesabı
+   
     discriminant = (trace ** 2) - (4 * det)
     sqrt_disc = discriminant ** 0.5
     
-    # Köklerin hesabı
+   
     l1 = (trace + sqrt_disc) / 2
     l2 = (trace - sqrt_disc) / 2
     
-    # Büyükten küçüğe sıralayıp döndür
+    
     return sorted([l1, l2], reverse=True)
