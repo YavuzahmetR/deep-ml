@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:56:15.869Z",
+  "generated_at": "2026-10-18T15:19:49.802Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -507,6 +507,19 @@
       "last_pushed_at": "2026-10-18T14:56:18.325Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:788": {
+      "kind": "problem",
+      "id": "788",
+      "title": "Exact Match Benchmark Decontamination Check",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/788",
+      "path": "problems/0788-exact-match-benchmark-decontamination-check",
+      "first_solved_at": "2026-10-18T15:19:51.819Z",
+      "last_pushed_at": "2026-10-18T15:19:51.819Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
