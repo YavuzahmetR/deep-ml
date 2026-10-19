@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T00:36:51.367Z",
+  "generated_at": "2026-10-19T00:40:07.898Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -556,9 +556,9 @@
       "url": "https://www.deep-ml.com/problems/112",
       "path": "problems/0112-min-max-scaling-of-feature-values",
       "first_solved_at": "2026-10-19T00:35:46.911Z",
-      "last_pushed_at": "2026-10-19T00:36:50.721Z",
+      "last_pushed_at": "2026-10-19T00:40:07.264Z",
       "language": "python",
-      "lines": 22
+      "lines": 31
     }
   }
 }
