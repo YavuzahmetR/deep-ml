@@ -15,8 +15,7 @@ def min_max(x: list[float]) -> list[float]:
     max_val = max(x)
 
     if min_val == max_val:
-        normalized_list.append([0] * len(x))
-        return normalized_list
+        return [0.0] * len(x)
 
     for element in x:
         normalized_list.append((element - min_val) / (max_val - min_val))
