@@ -1,3 +1,4 @@
+import numpy as np
 def selu(x: float) -> float:
 	"""
 	Implements the SELU (Scaled Exponential Linear Unit) activation function.
@@ -15,5 +16,5 @@ def selu(x: float) -> float:
 	if x > 0:
 		return scale * x
 	else:
-		return scale * alpha * (e**x - 1)
+		return scale * alpha * (np.exp(x) - 1)
 
