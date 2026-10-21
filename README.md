@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 52 problems · 0 labs · 0 math
+**53** solved · 53 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-10-21 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-10-21 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-10-20 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
+| [Reshape Data with pivot_table and melt](https://www.deep-ml.com/problems/1132) | medium | 2026-10-21 | [solution](problems/1132-reshape-data-with-pivot-table-and-melt) |
 
 ---
 
