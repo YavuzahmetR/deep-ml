@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:33:04.894Z",
+  "generated_at": "2026-10-21T21:35:37.756Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -728,6 +728,19 @@
       "last_pushed_at": "2026-10-21T21:33:05.428Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2026-10-21T21:35:38.222Z",
+      "last_pushed_at": "2026-10-21T21:35:38.222Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
