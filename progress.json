@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:42:15.132Z",
+  "generated_at": "2026-10-21T22:06:23.296Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -754,6 +754,19 @@
       "last_pushed_at": "2026-10-21T21:42:15.744Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2026-10-21T22:06:23.810Z",
+      "last_pushed_at": "2026-10-21T22:06:23.810Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
