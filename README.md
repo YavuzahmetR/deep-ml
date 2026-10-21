@@ -2,7 +2,9 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**54** solved · 54 problems · 0 labs · 0 math
+**Completed:** Pandas (8/8)
+
+**55** solved · 55 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-10-21 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-10-20 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Reshape Data with pivot_table and melt](https://www.deep-ml.com/problems/1132) | medium | 2026-10-21 | [solution](problems/1132-reshape-data-with-pivot-table-and-melt) |
+| [Rolling Average over a Daily Series with Missing Dates](https://www.deep-ml.com/problems/1552) | medium | 2026-10-21 | [solution](problems/1552-rolling-average-over-a-daily-series-with-missing-dates) |
 
 ---
 
