@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (8/8)
 
-**71** solved · 71 problems · 0 labs · 0 math
+**72** solved · 72 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-10-22 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Add a Per-Group Average Column with GroupBy Transform](https://www.deep-ml.com/problems/1136) | easy | 2026-10-21 | [solution](problems/1136-add-a-per-group-average-column-with-groupby-transform) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-16 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Build Vocabulary from Token List](https://www.deep-ml.com/problems/941) | easy | 2026-10-22 | [solution](problems/0941-build-vocabulary-from-token-list) |
