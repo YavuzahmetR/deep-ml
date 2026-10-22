@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:30:39.654Z",
+  "generated_at": "2026-10-22T23:16:15.107Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -897,6 +897,19 @@
       "last_pushed_at": "2026-10-22T14:30:42.580Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-10-22T23:16:17.843Z",
+      "last_pushed_at": "2026-10-22T23:16:17.843Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
