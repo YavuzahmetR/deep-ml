@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:03:34.261Z",
+  "generated_at": "2026-10-22T13:20:43.619Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -845,6 +845,19 @@
       "last_pushed_at": "2026-10-22T13:03:37.072Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:878": {
+      "kind": "problem",
+      "id": "878",
+      "title": "Prefix Tuning Parameter and Sequence Length Trade-off",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/878",
+      "path": "problems/0878-prefix-tuning-parameter-and-sequence-length-trade-off",
+      "first_solved_at": "2026-10-22T13:20:46.401Z",
+      "last_pushed_at": "2026-10-22T13:20:46.401Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
