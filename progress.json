@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:57:18.336Z",
+  "generated_at": "2026-10-22T14:30:39.654Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -884,6 +884,19 @@
       "last_pushed_at": "2026-10-22T13:57:21.176Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:942": {
+      "kind": "problem",
+      "id": "942",
+      "title": "Simple Word Tokenizer Encode and Decode",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/942",
+      "path": "problems/0942-simple-word-tokenizer-encode-and-decode",
+      "first_solved_at": "2026-10-22T14:30:42.580Z",
+      "last_pushed_at": "2026-10-22T14:30:42.580Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
