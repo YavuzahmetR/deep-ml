@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (8/8)
 
-**72** solved · 72 problems · 0 labs · 0 math
+**73** solved · 73 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-16 | [solution](problems/0016-feature-scaling-implementation) |
 | [Fill-in-the-Middle Document Transformation](https://www.deep-ml.com/problems/757) | easy | 2026-10-18 | [solution](problems/0757-fill-in-the-middle-document-transformation) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-10-21 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
+| [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-10-22 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-10-21 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-10-22 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-10-22 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
